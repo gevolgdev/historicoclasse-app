@@ -10,7 +10,7 @@ const IndexPage = () => {
   function updateNotes(studentGrade) {
     setGrade([...grade, studentGrade])
   }
-
+  
   return (
     <>
       {
